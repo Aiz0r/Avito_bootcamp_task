@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+catboost
+jupyterlab
+ipykernel
+ipywidgets
+tqdm
+pyarrow
+pymorphy3
+pymorphy3-dicts-ru
